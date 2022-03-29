@@ -1,3 +1,34 @@
+# SCP
+
+## Controlling access to AWS resources using Tag
+
+* Resource: Controle o acesso aos recursos de serviço da AWS com base nas tags desses recursos.
+            Para fazer isso, use a chave de condições ( condition key) resource Tag / Key-name para determinar se deve permitir o acesso ao recurso com base nas tags que estão anexadas ao recurso.
+
+* Request: controla quais Tags podem ser passadas em uma solicitação. PAra isso use a condition key = aws Request Tag/Key-name para especificar quais pares de chave-valor de tag podem ser passados em uma solicitação para marcar ou desmarcar um recurso AWS.
+
+Any part of the autorization process ( Qualquer parte do processo de autorização) Use a chave condition key aws:TagKeys para controlar 
+
+## Aplicar uso de Tags
+Garantir que os usuário criem e anexem TAGs de recursos aos recursos da AWS.
+
+### Visão Geral
+Aplicar e validar as TAGs de recursos, serão usadas, principalmente os serviços.
+  - AWS Organization : 
+  - AWS IAM;
+
+Para impor o uso de TAGs usaremos as politicas de controle do AWS Organizations Service Control Polices(SCPs).
+
+**SCPs** são um conjunto especifico e personalizável de politicas que oferecem controle central sobre as permissões máximas disponiveis para todas as contas.
+
+Para validar os valores das tags, usaremos as politicas de tags do AWS Organization.
+
+As politicas de TAG permitem que você mantenha TAGs. Consistentes, incluindo o tratamento de chaves e valores. AWS Identity e Access Management (IAM) permite que seja feito o gerenciamento de acesso aos recursos e serviços da AWS com segurança
+
+## Condition 
+?* reforça que existe algum valor para a chave da tag;
+Substituindo por ?  não requer que o valor esteja presente, mas ainda requer a chave da tag;
+
 {
     "Version": "2012-10-17",
     "Statement": [
