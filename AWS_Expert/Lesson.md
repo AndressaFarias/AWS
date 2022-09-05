@@ -35,3 +35,13 @@
 
     > Master Account é a primeira conta criada na AWS e Root Acoount é o usuário dono de um AWS Account
 
+
+# Day 03 
+
+Se você já usa AWS, escolha uma aplicação, um serviço específico e tente rodar o Well-Architected nele. Não publique os resultados, use isso dentro da empresa.
+Leia cada paper do Well-Architected que está na doc(veja em Links) e entenda mais degtalhes de cada Pilar do framework
+
+Execute na sua conta pessoal da AWS o Well-Architected, criando um workload inicial para medir a qualidade de cada pilar na sua conta inicial.
+Vá durante o treinamento, criando milestones, e vendo a evolução da sua conta.
+No final do treinamento, vamos rever cada pilar juntos.
+
