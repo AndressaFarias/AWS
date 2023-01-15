@@ -1,9 +1,13 @@
-**Scenario 1: Crie uma outra conta na AWS, acessando sua conta principal no menu My Organization, através da segunda opção Create account.**
+**Scenario 1:** 
+Crie uma outra conta na AWS, acessando sua conta principal no menu My Organization, através da segunda opção Create account.
 
    > repositorio.racapraque@gmail.com
 
 
-**Scenario 2: Agora, crie uma outra conta usando a opção Invite account. Para isso, você precisar criar essa conta antes. No total do dia, você precisa ter 3 contas criadas na AWS, na seguinte estrutura:**
+**Scenario 2:** 
+Agora, crie uma outra conta usando a opção _Invite account_.
+Para isso, você precisar criar essa conta antes. 
+No total do dia, você precisa ter 3 contas criadas na AWS, na seguinte estrutura:
 
    >  videos.dinda@gmail.com
 
@@ -58,13 +62,10 @@ Master Account/Payer Account
     ~~~
 
 
-**Simule o uso dessas SCP em cada conta, usando outros browsers para poder logar em multiplas contas ao mesmotempo.**
-Ex.: Chrome para logar na Master Account, Firefox para logar na conta Dev com o Root(email da conta) e 
-Modo incongnito do firefox ou do Chrome para logar na conta de Prod com o Root(email da conta).
+**Simule o uso dessas SCP em cada conta, usando outros browsers para poder logar em multiplas contas ao mesmo tempo.**
+Ex.: Chrome para logar na Master Account, Firefox para logar na conta Dev com o Root(email da conta) e Modo Anônimo do firefox ou do Chrome para logar na conta de Prod com o Root(email da conta);
 
-
-Obs: Use SCP para definir essas regra, e attach em cada conta sua respectiva SCP.
-
+Obs: Use SCP para definir essas regra e attach em cada conta sua respectiva SCP.
 
 Tentativa de criar RDS na conta de Dev
 
