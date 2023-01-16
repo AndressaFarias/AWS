@@ -1,3 +1,4 @@
+# Day 02
 AWS Landing Zone - https://aws.amazon.com/solutions/aws-landing-zone/
 
 AWS Organizations - https://aws.amazon.com/organizations/
@@ -10,6 +11,7 @@ Example Service Control Policies - https://docs.aws.amazon.com/organizations/lat
 
 AWS Calculator - https://calculator.s3.amazonaws.com/index.html
 
+# Day 03
 AWS Well-Architected Tool - https://aws.amazon.com/well-architected-tool/
 
 AWS Well-Architected Doc - https://aws.amazon.com/architecture/well-architected/
