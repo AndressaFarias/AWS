@@ -1,39 +1,39 @@
 # What is Cloud? 
-- Poder prover uma plataform em forma deserviço;
+- Poder prover uma plataforma em forma de serviço;
 
 
 # Caracteristicas e Vantagens 
 
-Agilidade (Agility)
+**Agilidade (Agility)**
 * Traz agilidade ao time de operação;
 
-Manutenção (Maintenance)
-* Não há mais a necessidade de haver pessoas especialistas na mantenção dos equipamentos, essa parte é feita pelo cloud;
-* Gerenciamento da infraestrutura; 
+**Manutenção (Maintenance)**
+* Não há mais a necessidade de haver pessoas especialistas na manutenção dos equipamentos essa parte é feita pela cloud;
+* Gerenciamento da infraestrutura também é feito pelo provedor de cloud; 
 
-Confiabilidade (Reliability)
+**Confiabilidade (Reliability)**
 * Aumento da confiabilidade, pois há pessoas focadas na confiabilidade do serviço;
 
-Segurança (Security)
+**Segurança (Security)**
 * Dentro do cloud há inúmeras coisas relacionadas à seguranças;
 * A segurança fisica dos datacenters do player não é mais um problema a ser pensado;
 * De modo geral há redução nos problemas de seguranças;
 
-Performance
+**Performance**
 * Quanto maior a performance maior é o custo;
-* Caso seja necessário aumento de performance, isso estara relacioando ao quanto é possivel pagar;
+* Caso seja necessário aumento de performance, isso estara relacionado ao quanto é possivel pagar;
 * Melhoria de performance é mais facil;
 
-Escalabilidade (Scalability)
+**Escalabilidade (Scalability)**
 * Escalar a infra sob-demanda;
 * Infra eláticas;
 * Infra em on-primesse o custo é sempre fixo por toda a infraestrutura, no cloud é conforme é solicitado;
 * Custo e elasticidade
 
-Custo e Eladticidade
+**Custo e Elasticidade**
 * Custo está atrelado ao que é utiizado de recursos;
 * Quando a aplicação não está em afinidade as caracteristicas da Cloud, o custo da app na cloud deve ficar maior;
-* Elástico é diferente de infinito. Cloud é Elastica, mas é finita.
+* Elastico é diferente de infinito. Cloud é Elastica, mas é finita;
 * Se não houver planejamento do crescimento da infraestrutura, pode ocorrer que quando ocorra a necessidade de crescimento da infraestrutura, não haja recurso disponivel.
 
 # NIST 

@@ -4,7 +4,7 @@
   [OK] Who am I? 
   [OK] What is Cloud? 
   [OK] Characteristics and Advantages, part 1 
-  [OK]Characteristics and Advantages, part 2  
+  [OK] Characteristics and Advantages, part 2  
   [OK] Characteristics and Advantages, part 3  
   [OK] Service models  
   [OK] Deployment models  
@@ -23,10 +23,7 @@
   [OK] Creating Account, part 3
   [OK] Creating, Account, part 4
   [OK] My Security Credentials
-    * Ativar o MFA para a `root-account`;
-    * Adicionar e-mail de contato em _My Account_;
   [OK] AWS Organizations
-    * Criar as _Organization Unit_ DEV, QA e PROD;
   [OK] AWS Support Center, Service Limits 
   [OK] AWS SCP - Service Control Policies, part 1 (7:03)
   [OK] AWS SCP - Service Control Policies, part 2 (2:19)
@@ -34,27 +31,27 @@
   [OK] Today's Lesson
   
 # Day 03
-  [OK] AWS Well-Architected - Intro (8:56)
-  [OK] AWS Well-Architected, part 2 (11:18)
-  [OK] AWS Well-Architected, part 3 (9:10)
-  [OK] Define Workload (7:26)
-  [OK] Framework Questions, part 1 (9:21)
-  [OK] Framework Questions, part 2 (8:31)
-  [OK] Milestones (7:33)
-  [OK] Reports and Improvement Plan (4:40)
-  [OK] Day 03 Well-Finished (5:29)
-  [OK] Today's Lesson
+  [] AWS Well-Architected - Intro (8:56)
+  [] AWS Well-Architected, part 2 (11:18)
+  [] AWS Well-Architected, part 3 (9:10)
+  [] Define Workload (7:26)
+  [] Framework Questions, part 1 (9:21)
+  [] Framework Questions, part 2 (8:31)
+  [] Milestones (7:33)
+  [] Reports and Improvement Plan (4:40)
+  [] Day 03 Well-Finished (5:29)
+  [] Today's Lesson
   
 # Day 04
- [OK]  IAM - Intro (9:21)
- [OK]  Dashboard (7:51)
- [OK]  Groups (10:37)
- [OK]  Users (11:42)
- [OK]  Users, part 2 (8:11)
- [OK]  MFA - Multi-factor Authentication (3:21)
- [OK]  MFA - Multi-factor Authentication, part 2 (5:06)
- [OK]  MFA - Multi-factor Authentication - Hardware (2:04)
- [OK]  My IAM user (4:49)
+ []  IAM - Intro (9:21)
+ []  Dashboard (7:51)
+ []  Groups (10:37)
+ []  Users (11:42)
+ []  Users, part 2 (8:11)
+ []  MFA - Multi-factor Authentication (3:21)
+ []  MFA - Multi-factor Authentication, part 2 (5:06)
+ []  MFA - Multi-factor Authentication - Hardware (2:04)
+ []  My IAM user (4:49)
  
  Roles (10:23)
  

@@ -1,7 +1,7 @@
 **Scenario 1:** 
 Crie uma outra conta na AWS, acessando sua conta principal no menu My Organization, através da segunda opção Create account.
 
-   > repositorio.racapraque@gmail.com
+   > 
 
 
 **Scenario 2:** 
@@ -9,8 +9,7 @@ Agora, crie uma outra conta usando a opção _Invite account_.
 Para isso, você precisar criar essa conta antes. 
 No total do dia, você precisa ter 3 contas criadas na AWS, na seguinte estrutura:
 
-   >  videos.dinda@gmail.com
-
+   >  sreandressafariasdev@gmail.com
 
 **Organização das contas:**
 
